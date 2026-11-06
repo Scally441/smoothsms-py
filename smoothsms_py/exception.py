@@ -1,0 +1,2 @@
+class SmoothSMSException(Exception):
+    pass
